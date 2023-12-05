@@ -5,7 +5,7 @@
 
 
 
-## Authors
+## Contributor
 
 - [@isandeepm](https://www.github.com/isandeepm)
 
